@@ -35,7 +35,7 @@ function Contact() {
               <li>
                 LinkedIn:{" "}
                 <a
-                  href="https://www.linkedin.com/in/rodrigo-arellano"
+                  href="https://www.linkedin.com/in/rodrigo-arellano-ganem/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-600"
