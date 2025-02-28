@@ -69,8 +69,8 @@ function About() {
         <div className="flex justify-center">
           <a
             className="text-blue-400 hover:text-blue-600 flex items-center gap-2"
-            href="/cv-Rodrigo.pdf"
-            download="cv-Rodrigo.pdf"
+            href="/cv-Rodrigo-front-end.pdf"
+            download="cv-Rodrigo-front-end.pdf"
           >
             Download CV <span className="text-blue-500 font-semibold">⬇</span>
           </a>
