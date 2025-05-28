@@ -28,11 +28,11 @@ function About() {
 
           {/* Bio */}
           <p className="text-sm sm:text-base md:text-lg lg:text-xl text-gray-300">
-            I am a passionate Next.js developer with a focus on building
-            high-performance web applications. My expertise lies in creating
-            scalable, accessible, and visually appealing solutions tailored to
-            client needs. I prioritize clean code, user-friendly navigation, and
-            long-term maintainability.
+            I am a passionate Full-Stack developer {`(Front-End oriented)`} with
+            a focus on building high-performance web applications. My expertise
+            lies in creating scalable, accessible, and visually appealing
+            solutions tailored to client needs. I prioritize clean code,
+            user-friendly navigation, and long-term maintainability.
           </p>
 
           {/* Work Approach */}
@@ -45,6 +45,8 @@ function About() {
               <li>Accessibility-focused development for all users.</li>
               <li>File-based routing for seamless navigation.</li>
               <li>Dynamic integration of APIs for real-time data.</li>
+              <li>RESTful API creation with Node.js and Express.</li>
+              <li>Schema Modeling and queries using MongoDB and Moongose.</li>
             </ul>
           </div>
 
@@ -54,9 +56,10 @@ function About() {
               Future Goals
             </h3>
             <p className="text-gray-300 text-sm sm:text-base md:text-lg">
-              While my current focus is on web development, I aspire to expand
-              into 3D web apps and immersive experiences, including augmented
-              reality (AR) and virtual reality (VR).
+              I&apos;m currently enhancing my skills through the Fullstack
+              Bootcamp at the University of Helsinki. While my main focus is on
+              web development, I&apos;m also exploring 3D web apps and immersive
+              experiences like AR and VR.
             </p>
           </div>
 
@@ -65,8 +68,8 @@ function About() {
             <LinkButtonPrimary href="/contact">Contact Me</LinkButtonPrimary>
             <a
               className="text-blue-400 hover:text-blue-600 flex items-center gap-2"
-              href="/cv-Rodrigo-front-end.pdf"
-              download="cv-Rodrigo-front-end.pdf"
+              href="/CV-Rodrigo-Arellano.pdf"
+              download="CV-Rodrigo-Arellano.pdf"
             >
               Download CV <span className="text-blue-500 font-semibold">⬇</span>
             </a>

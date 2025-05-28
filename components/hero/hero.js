@@ -37,9 +37,9 @@ function About() {
             Rodrigo Arellano
           </h2>
           <h1 className="uppercase text-xl sm:text-2xl md:text-4xl lg:text-6xl font-bold tracking-tighter">
-            Next.js{" "}
+            FullStack - Front{" "}
             <span className="bg-gradient-to-r from-orange-50 to-amber-400 bg-clip-text text-transparent">
-              Developer
+              End Oriented Developer
             </span>
           </h1>
         </div>
@@ -47,7 +47,8 @@ function About() {
         {/* Bio */}
         <p className="text-sm sm:text-base md:text-lg lg:text-xl text-gray-300">
           I specialize in building high-performance web applications using
-          modern technologies like Next.js, Tailwind CSS, and React. My focus is
+          modern technologies like Next.js, Tailwind CSS, and React, as well as
+          having solid knowledge with Node.js, Express.js, MongoDB. My focus is
           on creating scalable, accessible, and visually appealing solutions
           tailored to client needs.
         </p>
@@ -69,8 +70,8 @@ function About() {
         <div className="flex justify-center">
           <a
             className="text-blue-400 hover:text-blue-600 flex items-center gap-2"
-            href="/cv-Rodrigo-front-end.pdf"
-            download="cv-Rodrigo-front-end.pdf"
+            href="/CV-Rodrigo-Arellano.pdf"
+            download="CV-Rodrigo-Arellano.pdf"
           >
             Download CV <span className="text-blue-500 font-semibold">⬇</span>
           </a>
