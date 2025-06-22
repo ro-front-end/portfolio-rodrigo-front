@@ -26,7 +26,7 @@ function Projects() {
               key={project.id}
               className="cursor-pointer group relative rounded-3xl overflow-hidden shadow-lg hover:scale-105 transition duration-500 ease-in-out"
             >
-              <a target="_blank" href={project.url}>
+              <a target="_blank" rel="noopener noreferrer" href={project.url}>
                 <Image
                   className="w-full h-64 object-cover rounded-3xl"
                   src={project.image}
